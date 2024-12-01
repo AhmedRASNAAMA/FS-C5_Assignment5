@@ -201,3 +201,7 @@ h3.menu-item-title {
 .panel-body {
   color: green;
 }
+
+div h3 {
+	margin: 0px;
+}
